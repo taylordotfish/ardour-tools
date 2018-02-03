@@ -17,9 +17,9 @@ tempo. This script fixes that by scaling all automation in MIDI tracks.
 
 ### fix-unused-playlists.py
 
-As of commit 2018-02-02 (commit ``3aacdd79ae7537f507e6ee86ad6ffb85bc55bdfc``),
-unused playlists aren’t completely removed when the “Clean-up Unused Sources”
-feature is run. This script removes those unused playlists.
+As of 2018-02-02 (commit ``3aacdd79ae7537f507e6ee86ad6ffb85bc55bdfc``), unused
+playlists aren’t completely removed when the “Clean-up Unused Sources” feature
+is run. This script removes those unused playlists.
 
 License
 -------
