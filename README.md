@@ -7,6 +7,9 @@ Before running any of these scripts, it is highly recommended that you back up
 your project files. These scripts operate directly on session files and do not
 create any copies.
 
+As of 2018-02-02 (Ardour commit ``3aacdd79ae7537f507e6ee86ad6ffb85bc55bdfc``),
+these scripts appear to work properly.
+
 Scripts
 -------
 
